@@ -43,10 +43,10 @@ namespace NZWalks.API.Controllers
         [HttpPost]
         public async Task<IActionResult> AddRegionAsync(AddRegionRequest addRegionRequest)
         {
-            if(!ValidateAddRegionAsync(addRegionRequest))
-            {
-                return BadRequest(ModelState);
-            }
+            //if(!ValidateAddRegionAsync(addRegionRequest))
+            //{
+            //    return BadRequest(ModelState);
+            //}
             var region = mapper.Map<Region>(addRegionRequest);
             region = await regionRepository.AddAsync(region);
             var regionVM = mapper.Map<RegionVM>(region);

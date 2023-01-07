@@ -87,3 +87,6 @@ D:\FPT\Projects\WebAPI\NZWalks\NZWalks\NZWalks.API\obj\Debug\net6.0\NZWalks.API.
 D:\FPT\Projects\WebAPI\NZWalks\NZWalks\NZWalks.API\obj\Debug\net6.0\ref\NZWalks.API.dll
 D:\FPT\Projects\WebAPI\NZWalks\NZWalks\NZWalks.API\bin\Debug\net6.0\AutoMapper.dll
 D:\FPT\Projects\WebAPI\NZWalks\NZWalks\NZWalks.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\FPT\Projects\WebAPI\NZWalks\NZWalks\NZWalks.API\bin\Debug\net6.0\FluentValidation.dll
+D:\FPT\Projects\WebAPI\NZWalks\NZWalks\NZWalks.API\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+D:\FPT\Projects\WebAPI\NZWalks\NZWalks\NZWalks.API\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
